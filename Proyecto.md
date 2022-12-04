@@ -60,94 +60,120 @@ La historia de los Sistemas Operativos el algo interesante ya que se dividieron 
 
 ##### Historia del Sistema Operativo Mac Os
 *1984 - Sistema 1*
+
 El Sistema 1 tenía escritorio, ventanas, iconos, mouse, menús y scrollbars.
 El basurero “Trash” funcionaba como un tobogán de basura, todo desaparecía luego de reiniciar el ordenador.
 
 ![](img/sis1.png)
 
 *1985: Sistema 2*
+
 El Sistema 2 fue notable en mejoras. Incrementó la velocidad del Finder haciéndolo un veinte por ciento más rápido, los comandos de regresar y cerrar se eliminaros.
 
 *1986: Sistema 3*
+
 En el Sistema 3 el Finder fue mejorado y más rápido. Los folders eran reales y se podían crear folders dentro de folders.
 Haciendo clic nuevamente se podía hacer que la ventana regresara a su tamaño normal. El icono del basurero sobresalía cuando algo era puesto sobre este y las líneas punteadas en dirección contraria.
 
 *1987: Sistema 4*
+
 El Sistema 4 fue introducido como Macintosh SE y Macintosh II. A este sistema se le agregó múltiple soporte al monitor.
 Soportaba discos de 32+ MB, se le implemento el Finder múltiple, los usuarios podían cambiar entre el Finder, que solo soportaba un programa y el Finder múltiple que soportaba múltiples programas al mismo tiempo.
 
 *1988: Sistema 6*
+
 En el Sistema 6 se agregaron colores, aun así el Finder no tenía color, aunque las máquinas ya eran capaces. A la opción de “Borrar Disco” se le agrego un botón para poder cancelar esta acción.
 
 ![](img/sis6.png)
 
 *1990: Sistema 7*
+
 El Sistema 7 fue el gran cambio de software para esta época, se eliminó el Finder y el Finder múltiple. El Sistema 7 ya sólo tenía el Finder múltiple permitiendo hacer muchas tareas simultáneamente. Mac OS 7.6, fue el primer sistema operativo lanzado con una estrategia de Apple para luego ser actualizado como el actual Mac OS cada 6 meses.
 
 *1997: Mac OS 8*
+
 Mac OS 8 incluyó otra renovación al Finder que podía hacer más cosas al mismo tiempo, dando la opción de controlar múltiples aplicaciones al mismo tiempo con un mejor desempeño de las computadoras con procesador.
 
 *1999: Mac OS 9*
+
 La opción de tener varios usuarios en una Mac fue agregada en esta versión, permitía a los usuarios ingresar y tener sus propias configuraciones.
 
 *2001: Mac OS X 10.0 “Cheetah”*
+
 Mac OS X 10.0 contenía todas características de un sistema operativo moderno, protegía la memoria, y así los programas no podían utilizar la información de otros programas, de esta forma el procesador no se bloqueaba, los drivers de los dispositivos podían ser cargados o descargados si eran necesario.
 
 ![](img/mac10.png)
 
 *2001: Mac OS X 10.1 “Puma”*
+
 Incorporaba mejor desempeño. La mayoría de open source como utilidades de UNIX fueron incluidas en las Mac OS X y drivers adicionales para poder soportar mas dispositivos.
 
 *2002: Mac OS X 10.2 “Jaguar”*
+
 Contaba con un nuevo incremento en su rendimiento, un nuevo y depurado look y más de 150 mejoras, entre estas estaba el mayor soporte para redes de Microsoft Windows, Quartz Extreme para la composición de gráficos sea procesada directamente por la tarjeta de video y un filtro contra spam.
 
 *2003: Mac OS X 10.3 “Panther”*
+
 Además de tener un rendimiento mucho mayor, incorporó la mayor actualización en la interfaz de usuario, y muchas mejoras que Jaguar el año anterior.
 
 *2005: Mac OS X 10.4 “Tiger”*
+
 Fue la versión disponible más reciente, contenía más de 200 nuevas mejoras, pero como sucedió con el lanzamiento de Panther, algunas máquinas antiguas no podían soportarlo.
 
 *2006: Mac OS X 10.5 “Leopard”*
+
 Esta versión es compatible con las PowerPC y con la nueva tecnología Intel.
 
 *2009: Mac OS X 10.6 “Snow Leopard”*
+
 La más reciente versión del sistema operativo de Mac, apodado Snow Leopard, fue lanzado el 28 de agosto de 2009 y es más rápido que sus predecesores.
 
 ##### Historia del Sistema Operativo Windows
+
 *Windows 1.X/ 2.x.*
+
 Significó un gran cambio para los sistemas operativos de la época que se basaban en representaciones de textos. Esta versión empleó representaciones gráficas de tipo monocromáticas.
 
 ![](img/w1.png)
 
 *Windows 3.x.*
+
 Se lanzó como una interfaz multitareas y netamente a color que contenía nuevos conceptos informáticos, como íconos, carpetas, barra de tareas y papel tapiz, entre otros.
 
 *Windows NT.*
+
 Se lanzó como una versión diferente diseñada para su conectividad a servidores de una red. Compitió con el sistema operativo UNIX.
 
 *Windows 95.*
+
 Fue una versión completamente mejorada con una gestión de entornos de 32 bits y la función plug and play que permitía conectar y ejecutar un dispositivo al ordenador sin tener que realizar una configuración previa.
 
 ![](img/w95.png)
 
 *Windows 98/ 98 SE.*
+
 Fue una versión muy similar a su antecesora, pero que ofreció una mejoría para el reconocimiento de más variedad de dispositivos externos mediante la función plug and play.
 
 *Windows 2000.*
+
 Fue una evolución de la versión Windows con la mejora en el reconocimiento del hardware, del soporte de 64 bits y del servicio de Active Directory (Directorio activo), que permitía compartir dispositivos en red, como una impresora, un router o un servidor con otros ordenadores que también estaban conectados a la red.
 
 *Windows Millenium.*
+
 Fue una versión similar a su antecesora, pero con la importante mejoría de un amplio reconocimiento de los dispositivos externos, a través de la renovada función plug and play a través de las entradas de puerto USB.
 
 *Windows XP.*
+
 Fue una versión destacada por la posibilidad de ejecutar la asistencia remota, es decir, le permitía al usuario compartir el control de su equipo con otro ordenador que se encontrara conectado a una red interna o externa.
 
 ![](img/wxp.png)
 
 *Windows 7.*
+
 Se lanzó como una versión ampliamente mejorada en cuanto a la compatibilidad, tanto de programas como de conectores externos, incluso, para trabajar con varios monitores en simultáneo. Ofreció, además, mayor velocidad de procesamiento de datos que permitió una rápida transición de gráficos.
 
 *Windows 10.*
+
 Consistió en una nueva generación del sistema operativo con un formato de pizarra interactiva propio de la telefonía celular. Además, su renovada interfaz ofrecía mejores prestaciones para trabajar conectados a las nubes o servidores externos.
 
 ![](img/w10.png)
@@ -156,9 +182,11 @@ Consistió en una nueva generación del sistema operativo con un formato de piza
 Cada distribución, desde Debian hasta Ubuntu, cuenta con el respaldo de sus respectivas comunidades. Voluntarios comprometidos con el desarrollo de software libre que programan los paquetes de datos y refuerzan las defensas de sus distribuciones, mejorando cada vez más para los usuarios.
 
 *1993*
+
 Se inició proyecto GNU, fundado por Richard Stallman, quien tenía como objetivo crear un sistema operativo similar a UNIX. La Fundación de Software Libre (FSF por sus siglas en inglés) se creó en el año 1985, y fue desarrollada la Licencia pública general de GNU, o GNU GPL.
 
 *1991 a 1999*
+
 En el año de 1991, un estudiante de ingeniería informática llamado Linus Tovalds desarrolló un emulador de terminal que podía utilizar de forma independiente de un sistema operativo. Al poco tiempo, Tovalds se dio cuenta de que había diseñado el núcleo de un sistema operativo funcional
 
 ![](img/L1.png)
@@ -208,16 +236,19 @@ git push - Sube los cambios a nuestro cliente remoto por ejemplo github.
 Las operaciones de Entrada/Salida son el conjunto de acciones necesarias para la transferencia de un conjunto de datos.
 
 | **Dispositivos de Entrada** |
+
 Son aquellos equipos encargados de introducir datos en la memoria central de la computadora para su tratamiento.
 
 ![](img/entr.png)
 
 | **Dispositivos de Salida** |
+
 Son los equipos que presentan la información al usuario de forma comprensible, ya sea a través de imágenes, texto, sonido o táctil.
 
 ![](img/sal.png)
 
 | **Dispositivos Mixtos** |
+
 Permiten la introducción y extracción de datos en la memoria central.
 
 ![](img/mix.png)
